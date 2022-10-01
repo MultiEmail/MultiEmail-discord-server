@@ -1,5 +1,5 @@
 
-# MultiEmail-Discord-Server
+# MultiEmail Discord Server
 #### All changes/updates to the MultiEmail Discord Server are logged here.
 > ###### Discord Invite: https://discord.gg/gkvCYzRKEB
 
