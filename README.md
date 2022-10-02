@@ -15,3 +15,9 @@
 - [+] Added a suggestions forum so users can make suggestions.
 - [+] The Discord should feel less cluttered overall now and more organized.
 - [+] Added the Autorole Discord bot to establish member-accessible roles in the near future.
+
+<br>
+
+> 10/2/22 => *Changes made by AndrewFirePvP7*
+
+- [+] Added a templates channel so that potentially interested recruits can get information to our GitHub and Discord server fast (copy and paste to DMs).
