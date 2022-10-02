@@ -21,7 +21,7 @@ To contribute, please join the Discord so we can assign you your proper roles an
 ```
 
 <br>
-TITLE OF POST: [WIP] Multi Email Client
+TITLE OF POST: [WIP] Multi Email Client<br>
 POST TO ADVERTISE MULTI EMAIL:
 
 ```
